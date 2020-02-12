@@ -38,3 +38,4 @@ On Windows you may use java tool ESPlorer https://esp8266.ru/esplorer/
 5. After config you may get information on http://yourip:888/ in JSON format
 
 If need reset to default just push flash button 10 second
+P.S: Thanks for start info and source https://www.esp8266.com/viewtopic.php?t=9848
