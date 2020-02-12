@@ -33,7 +33,7 @@ On Windows you may use java tool ESPlorer https://esp8266.ru/esplorer/
            
 <img src="https://sun9-3.userapi.com/c857736/v857736303/17cddf/Spgf9f1h2sY.jpg" width="440" alt="">
 
-4. After upload and connect on first start NodeMCU create AP with name VoltAP connect to this AP and open http://192.168.4.1:888/config
+4. After upload and connect on first start NodeMCU create AP with name ```Volt AP``` connect to this AP and open http://192.168.4.1:888/config
 
 5. After config you may get information on http://yourip:888/ in JSON format
 
