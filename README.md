@@ -16,10 +16,12 @@ On Windows you may use https://github.com/nodemcu/nodemcu-flasher
 2. After install firmware download all .lua files on this repository
 On Linux or Windows you may use Python and luatool.py
 - ```python luatool.py --port /dev/ttyUSB0 --src init.lua --verbose --baud 115200``` (or ```--port COM1``` on Windows)
+
 .... upload all .lua files to NodeMCU
 
 On Windows you may use java tool ESPlorer https://esp8266.ru/esplorer/
 <img src="https://sun9-41.userapi.com/c205524/v205524303/65e40/9Au7r4cVBVs.jpg" width="440" alt="">
+
 ...upload all .lua files to NodeMCU
 
 3. Connect ZMPT101b to NodeMCU
@@ -38,4 +40,5 @@ On Windows you may use java tool ESPlorer https://esp8266.ru/esplorer/
 5. After config you may get information on http://yourip:888/ in JSON format
 
 If need reset to default just push flash button 10 second
+
 P.S: Thanks for start info and source https://www.esp8266.com/viewtopic.php?t=9848
