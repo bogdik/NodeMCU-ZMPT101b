@@ -42,3 +42,8 @@ On Windows you may use java tool ESPlorer https://esp8266.ru/esplorer/
 If need reset to default just push flash button 10 second
 
 P.S: Thanks for start info and source https://www.esp8266.com/viewtopic.php?t=9848
+1,2,3 peak voltage methods i get on 
+http://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_0217_5728.pdf
+
+4 on
+http://sentroino.blogspot.com/2015/12/measuring-ac-voltage-using-arduino.html?m=1
