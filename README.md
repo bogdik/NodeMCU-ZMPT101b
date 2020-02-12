@@ -23,6 +23,7 @@ On Windows you may use java tool ESPlorer https://esp8266.ru/esplorer/
 ...upload all .lua files to NodeMCU
 
 3. Connect ZMPT101b to NodeMCU
+
            ACC      -  3v3
            
            OUT      -  A0
