@@ -37,7 +37,15 @@ On Windows you may use java tool ESPlorer https://esp8266.ru/esplorer/
 
 4. After upload and connect on first start NodeMCU create AP with name ```Volt AP``` connect to this AP and open http://192.168.4.1:888/config
 
+<img src="https://sun9-54.userapi.com/c855032/v855032150/1ef84c/uiGUhBRj8J4.jpg" width="440" alt="">
+
+http://192.168.4.1:888/config2
+
+<img src="https://sun9-46.userapi.com/c855032/v855032150/1ef845/qno8b-98NHk.jpg" width="440" alt="">
+
 5. After config you may get information on http://yourip:888/ in JSON format
+
+<img src="https://sun9-62.userapi.com/c855032/v855032150/1ef854/1sFIMT5rZi0.jpg" width="440" alt="">
 
 If need reset to default just push flash button 10 second
 
